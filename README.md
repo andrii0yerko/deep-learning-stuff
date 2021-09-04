@@ -17,9 +17,9 @@ Time per epoch includes time spent on data loading and preprocessing, which shou
 | **DCGAN** | 56.08 s | 1000 | 54.1756 | 4.7795 | 47.7449 (1180) |
 | **SNGAN** | 57.13 s | 1200 | 54.9516 | 4.7813 | 52.9301 (1340) |
 ### DCGAN • [nbviewer](https://nbviewer.jupyter.org/github/andrii0yerko/frogs-gan/blob/main/Frogs_DCGAN.ipynb) • [Google Colab](https://colab.research.google.com/github/andrii0yerko/frogs-gan/blob/main/Frogs_DCGAN.ipynb)
-![](https://drive.google.com/uc?export=view&id=1qxZJF5uZ_WdRDkeGCOJWVGqQppkQt2Qu)
+![training progress (click or reload the page if you don't see the gif)](https://drive.google.com/uc?export=view&id=1qxZJF5uZ_WdRDkeGCOJWVGqQppkQt2Qu)
 ### SNGAN • [nbviewer](https://nbviewer.jupyter.org/github/andrii0yerko/frogs-gan/blob/main/Frogs_SNGAN.ipynb) • [Google Colab](https://colab.research.google.com/github/andrii0yerko/frogs-gan/blob/main/Frogs_SNGAN.ipynb)
-![](https://drive.google.com/uc?export=view&id=1H4Vk_iTGa_awUFF8q2CbK-csOLi-TjBk)
+![training progress (click or reload the page if you don't see the gif)](https://drive.google.com/uc?export=view&id=1H4Vk_iTGa_awUFF8q2CbK-csOLi-TjBk)
 
 ## First version (with much simpler augmentation)
 Left for comparison.
